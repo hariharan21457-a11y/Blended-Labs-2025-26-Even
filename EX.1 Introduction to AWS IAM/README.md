@@ -69,6 +69,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** Kervin.S and **Reg.No.**212225220051
 **Course:** Introduction to Cloud Computing  
 
